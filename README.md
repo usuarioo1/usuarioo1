@@ -2,7 +2,7 @@
 <h1 align="center">⭐Hello, I am Nicolas⭐</h1>
 
 <p align="center">
-  <img width="400" height="300" src="[https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498](https://res.cloudinary.com/dpbpyzl96/image/upload/v1708740800/GameLink/tnbsnnxllbnaalptyzkc.png)">
+  <img width="400" height="300" src="https://res.cloudinary.com/dpbpyzl96/image/upload/v1708740800/GameLink/tnbsnnxllbnaalptyzkc.png">
 </p>
 
 - 💻 I'm a full stack web developer
