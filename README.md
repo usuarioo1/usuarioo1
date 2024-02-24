@@ -1,4 +1,4 @@
-### HI, I AM NICOLAS ✌
+<h1 align="center">⭐Hello, I am Nicolas⭐</h1>
 
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
