@@ -1,4 +1,4 @@
-### HOLA SOY NICOLÁS ✌
+### HI, I AM NICOLAS ✌
 
 <!--
 **usuarioo1/usuarioo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
