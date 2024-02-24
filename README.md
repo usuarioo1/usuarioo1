@@ -1,5 +1,3 @@
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 <h1 align="center">⭐Hello, I am Nicolas⭐</h1>
 
