@@ -7,4 +7,4 @@
 - 👀 also i am sociologist
  
   ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb,git,github,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb,git,github,postman,vite,nodejs)](https://skillicons.dev)
