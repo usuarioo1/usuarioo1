@@ -1,11 +1,9 @@
 
 <h1 align="center">⭐Hello, I am Nicolas⭐</h1>
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-<h1 align="center">![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) </h1>
+<p align="center">
+  <img width="400" height="300" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
 
 - 💻 I'm a full stack web developer
 - 📚 Learning everything about Frontend and Backend technologies 😅
