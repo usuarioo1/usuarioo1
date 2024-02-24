@@ -8,5 +8,4 @@
 - * 🎨 I'm a self-taught UI designer
  
   ## Tech Stack
-
-  (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
