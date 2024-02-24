@@ -1,3 +1,6 @@
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 <h1 align="center">⭐Hello, I am Nicolas⭐</h1>
 
 - 💻 I'm a full stack web developer
@@ -8,3 +11,5 @@
  
   ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb,git,github,postman,vite,nodejs)](https://skillicons.dev)
+
+
