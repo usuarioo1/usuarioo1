@@ -16,9 +16,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicol%C3%A1s-gonz%C3%A1lez-moller-099767174/)
-<li>
 <a href="mailto:nicolasgonzalezmoller@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Nicolas -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 
