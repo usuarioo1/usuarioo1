@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb,git,github,postman,vite,nodejs)](https://skillicons.dev)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/nicol%C3%A1s-gonz%C3%A1lez-moller-099767174/)https://www.linkedin.com/in/nicol%C3%A1s-gonz%C3%A1lez-moller-099767174/)
 
 
